@@ -144,6 +144,6 @@ $ git push -u origin BranchName
 Finally, go to your repository in the browser and click on `compare and pull requests`.
 Then add a title and description to your pull request that explains your precious effort.
 
-<a href = "https://github.com/Ollie-beep-bop/contributors">
+<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo = Ollie-beep-bop/CodeHashira"/>
 </a>
